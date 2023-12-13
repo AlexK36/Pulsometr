@@ -1,0 +1,26 @@
+.feed-form {
+    margin-top: 36px;
+    display: flex;
+    flex-direction: column;
+    width: 303px;
+
+    input {
+        height: 54px;
+        border-radius: 5px;
+        color: #4B4B4B;
+        font-size: 14px;
+        font-weight: 400;
+        background-color: #fff;
+        margin-bottom: 15px;
+        border: none;
+        padding: 0 21px;
+
+        &:last-child {
+            margin-top: 7px;
+        }
+    }
+
+    &_mt26 {
+        margin-top: 26px;
+    }
+}
